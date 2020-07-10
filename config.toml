@@ -7,7 +7,7 @@ theme = "codex"
 # Override these settings with your own
 title = "JJ's second life"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://sojournre.github.io/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
